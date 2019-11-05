@@ -1,0 +1,1468 @@
+2019-06-16 13:04:12 picture from http
+2019-06-16 13:04:12 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:05:38 picture from http
+2019-06-16 13:05:38 tryTime:2,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:07:11 picture from http
+2019-06-16 13:07:11 tryTime:3,  successTime:3,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:08:36 picture from http
+2019-06-16 13:08:36 tryTime:4,  successTime:4,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:10:05 picture from http
+2019-06-16 13:10:05 tryTime:5,  successTime:5,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:11:32 picture from http
+2019-06-16 13:11:33 tryTime:6,  successTime:6,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:13:00 picture from http
+2019-06-16 13:13:00 tryTime:7,  successTime:7,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:14:26 picture from http
+2019-06-16 13:14:26 tryTime:8,  successTime:8,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:15:52 picture from http
+2019-06-16 13:15:52 tryTime:9,  successTime:9,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:17:20 picture from http
+2019-06-16 13:17:20 tryTime:10,  successTime:10,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:18:49 picture from http
+2019-06-16 13:18:49 tryTime:11,  successTime:11,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:22:22 picture from http
+2019-06-16 13:22:22 tryTime:12,  successTime:12,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:23:50 picture from http
+2019-06-16 13:23:50 tryTime:13,  successTime:13,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:33:23 picture from http
+2019-06-16 13:33:23 tryTime:14,  successTime:14,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:34:50 picture from http
+2019-06-16 13:34:50 tryTime:15,  successTime:15,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:36:17 picture from http
+2019-06-16 13:36:17 tryTime:16,  successTime:16,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:37:47 picture from http
+2019-06-16 13:37:47 tryTime:17,  successTime:17,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:39:16 picture from http
+2019-06-16 13:39:16 tryTime:18,  successTime:18,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:40:43 picture from http
+2019-06-16 13:40:43 tryTime:19,  successTime:19,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:44:11 picture from http
+2019-06-16 13:44:11 tryTime:20,  successTime:20,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:45:40 picture from http
+2019-06-16 13:45:40 tryTime:21,  successTime:21,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:47:08 picture from http
+2019-06-16 13:47:08 tryTime:22,  successTime:22,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:48:35 picture from http
+2019-06-16 13:48:35 tryTime:23,  successTime:23,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:50:02 picture from http
+2019-06-16 13:50:02 tryTime:24,  successTime:24,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:51:29 picture from http
+2019-06-16 13:51:29 tryTime:25,  successTime:25,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:52:56 picture from http
+2019-06-16 13:52:56 tryTime:26,  successTime:26,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:54:25 picture from http
+2019-06-16 13:54:25 tryTime:27,  successTime:27,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:55:58 picture from http
+2019-06-16 13:55:58 tryTime:28,  successTime:28,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:57:29 picture from http
+2019-06-16 13:57:29 tryTime:29,  successTime:29,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 13:58:59 picture from http
+2019-06-16 13:58:59 tryTime:30,  successTime:30,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:00:26 picture from http
+2019-06-16 14:00:26 tryTime:31,  successTime:31,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:01:51 picture from http
+2019-06-16 14:01:51 tryTime:32,  successTime:32,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:03:19 picture from http
+2019-06-16 14:03:19 tryTime:33,  successTime:33,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:04:48 picture from http
+2019-06-16 14:04:48 tryTime:34,  successTime:34,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:06:14 picture from http
+2019-06-16 14:06:14 tryTime:35,  successTime:35,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:07:39 picture from http
+2019-06-16 14:07:39 tryTime:36,  successTime:36,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:09:08 picture from http
+2019-06-16 14:09:08 tryTime:37,  successTime:37,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:10:34 picture from http
+2019-06-16 14:10:34 tryTime:38,  successTime:38,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:23:28 picture from http
+2019-06-16 14:23:28 tryTime:39,  successTime:39,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:25:32 picture from http
+2019-06-16 14:25:32 tryTime:40,  successTime:40,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:26:59 picture from http
+2019-06-16 14:26:59 tryTime:41,  successTime:41,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:28:26 picture from http
+2019-06-16 14:28:26 tryTime:42,  successTime:42,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:29:53 picture from http
+2019-06-16 14:29:53 tryTime:43,  successTime:43,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:31:20 picture from http
+2019-06-16 14:31:20 tryTime:44,  successTime:44,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:32:47 picture from http
+2019-06-16 14:32:47 tryTime:45,  successTime:45,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:34:15 picture from http
+2019-06-16 14:34:15 tryTime:46,  successTime:46,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:35:46 picture from http
+2019-06-16 14:35:46 tryTime:47,  successTime:47,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:37:13 picture from http
+2019-06-16 14:37:13 tryTime:48,  successTime:48,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:38:41 picture from http
+2019-06-16 14:38:41 tryTime:49,  successTime:49,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:40:07 picture from http
+2019-06-16 14:40:07 tryTime:50,  successTime:50,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:41:37 picture from http
+2019-06-16 14:41:37 tryTime:51,  successTime:51,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:43:05 picture from http
+2019-06-16 14:43:05 tryTime:52,  successTime:52,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:44:34 picture from http
+2019-06-16 14:44:34 tryTime:53,  successTime:53,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:46:00 picture from http
+2019-06-16 14:46:00 tryTime:54,  successTime:54,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:47:28 picture from http
+2019-06-16 14:47:28 tryTime:55,  successTime:55,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:48:55 picture from http
+2019-06-16 14:48:55 tryTime:56,  successTime:56,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:50:26 picture from http
+2019-06-16 14:50:26 tryTime:57,  successTime:57,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:51:52 picture from http
+2019-06-16 14:51:52 tryTime:58,  successTime:58,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:53:51 picture from http
+2019-06-16 14:53:51 tryTime:59,  successTime:59,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:55:18 picture from http
+2019-06-16 14:55:18 tryTime:60,  successTime:60,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:57:17 picture from http
+2019-06-16 14:57:17 tryTime:61,  successTime:61,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 14:59:20 picture from http
+2019-06-16 14:59:20 tryTime:62,  successTime:62,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:00:51 picture from http
+2019-06-16 15:00:51 tryTime:63,  successTime:63,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:02:18 picture from http
+2019-06-16 15:02:18 tryTime:64,  successTime:64,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:03:45 picture from http
+2019-06-16 15:03:45 tryTime:65,  successTime:65,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:05:13 picture from http
+2019-06-16 15:05:13 tryTime:66,  successTime:66,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:06:44 picture from http
+2019-06-16 15:06:44 tryTime:67,  successTime:67,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:08:11 picture from http
+2019-06-16 15:08:11 tryTime:68,  successTime:68,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:09:39 picture from http
+2019-06-16 15:09:39 tryTime:69,  successTime:69,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:11:05 picture from http
+2019-06-16 15:11:05 tryTime:70,  successTime:70,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:12:31 picture from http
+2019-06-16 15:12:31 tryTime:71,  successTime:71,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:13:58 picture from http
+2019-06-16 15:13:58 tryTime:72,  successTime:72,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:15:26 picture from http
+2019-06-16 15:15:26 tryTime:73,  successTime:73,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:16:53 picture from http
+2019-06-16 15:16:53 tryTime:74,  successTime:74,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:18:19 picture from http
+2019-06-16 15:18:19 tryTime:75,  successTime:75,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:19:48 picture from http
+2019-06-16 15:19:48 tryTime:76,  successTime:76,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:21:15 picture from http
+2019-06-16 15:21:15 tryTime:77,  successTime:77,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:22:42 picture from http
+2019-06-16 15:22:42 tryTime:78,  successTime:78,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:24:09 picture from http
+2019-06-16 15:24:09 tryTime:79,  successTime:79,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:25:39 picture from http
+2019-06-16 15:25:39 tryTime:80,  successTime:80,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:27:09 picture from http
+2019-06-16 15:27:09 tryTime:81,  successTime:81,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:28:40 picture from http
+2019-06-16 15:28:40 tryTime:82,  successTime:82,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:30:08 picture from http
+2019-06-16 15:30:08 tryTime:83,  successTime:83,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:31:34 picture from http
+2019-06-16 15:31:34 tryTime:84,  successTime:84,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:33:02 picture from http
+2019-06-16 15:33:02 tryTime:85,  successTime:85,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:34:28 picture from http
+2019-06-16 15:34:28 tryTime:86,  successTime:86,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:35:55 picture from http
+2019-06-16 15:35:55 tryTime:87,  successTime:87,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:37:22 picture from http
+2019-06-16 15:37:22 tryTime:88,  successTime:88,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:38:47 picture from http
+2019-06-16 15:38:47 tryTime:89,  successTime:89,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:40:17 picture from http
+2019-06-16 15:40:17 tryTime:90,  successTime:90,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:41:44 picture from http
+2019-06-16 15:41:44 tryTime:91,  successTime:91,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:43:11 picture from http
+2019-06-16 15:43:11 tryTime:92,  successTime:92,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:44:37 picture from http
+2019-06-16 15:44:37 tryTime:93,  successTime:93,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:46:02 picture from http
+2019-06-16 15:46:02 tryTime:94,  successTime:94,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:47:32 picture from http
+2019-06-16 15:47:32 tryTime:95,  successTime:95,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:48:59 picture from http
+2019-06-16 15:48:59 tryTime:96,  successTime:96,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:50:30 picture from http
+2019-06-16 15:50:30 tryTime:97,  successTime:97,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:51:55 picture from http
+2019-06-16 15:51:55 tryTime:98,  successTime:98,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:53:25 picture from http
+2019-06-16 15:53:25 tryTime:99,  successTime:99,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:54:51 picture from http
+2019-06-16 15:54:51 tryTime:100,  successTime:100,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:56:21 picture from http
+2019-06-16 15:56:21 tryTime:101,  successTime:101,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:57:51 picture from http
+2019-06-16 15:57:51 tryTime:102,  successTime:102,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 15:59:43 picture from http
+2019-06-16 15:59:43 tryTime:103,  successTime:103,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:01:11 picture from http
+2019-06-16 16:01:11 tryTime:104,  successTime:104,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:02:37 picture from http
+2019-06-16 16:02:37 tryTime:105,  successTime:105,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:04:04 picture from http
+2019-06-16 16:04:04 tryTime:106,  successTime:106,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:05:30 picture from http
+2019-06-16 16:05:30 tryTime:107,  successTime:107,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:07:00 picture from http
+2019-06-16 16:07:00 tryTime:108,  successTime:108,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:08:31 picture from http
+2019-06-16 16:08:31 tryTime:109,  successTime:109,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:09:57 picture from http
+2019-06-16 16:09:57 tryTime:110,  successTime:110,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:11:24 picture from http
+2019-06-16 16:11:24 tryTime:111,  successTime:111,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:12:56 picture from http
+2019-06-16 16:12:56 tryTime:112,  successTime:112,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:14:22 picture from http
+2019-06-16 16:14:22 tryTime:113,  successTime:113,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:15:52 picture from http
+2019-06-16 16:15:52 tryTime:114,  successTime:114,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:17:19 picture from http
+2019-06-16 16:17:19 tryTime:115,  successTime:115,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:18:45 picture from http
+2019-06-16 16:18:45 tryTime:116,  successTime:116,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:20:11 picture from http
+2019-06-16 16:20:11 tryTime:117,  successTime:117,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:21:44 picture from http
+2019-06-16 16:21:44 tryTime:118,  successTime:118,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:23:16 picture from http
+2019-06-16 16:23:16 tryTime:119,  successTime:119,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:24:42 picture from http
+2019-06-16 16:24:42 tryTime:120,  successTime:120,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:26:10 picture from http
+2019-06-16 16:26:10 tryTime:121,  successTime:121,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:27:39 picture from http
+2019-06-16 16:27:39 tryTime:122,  successTime:122,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:29:05 picture from http
+2019-06-16 16:29:05 tryTime:123,  successTime:123,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:30:32 picture from http
+2019-06-16 16:30:32 tryTime:124,  successTime:124,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:31:59 picture from http
+2019-06-16 16:31:59 tryTime:125,  successTime:125,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:33:25 picture from http
+2019-06-16 16:33:25 tryTime:126,  successTime:126,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:34:53 picture from http
+2019-06-16 16:34:53 tryTime:127,  successTime:127,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:36:18 picture from http
+2019-06-16 16:36:18 tryTime:128,  successTime:128,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:37:48 picture from http
+2019-06-16 16:37:48 tryTime:129,  successTime:129,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:39:14 picture from http
+2019-06-16 16:39:14 tryTime:130,  successTime:130,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:40:39 picture from http
+2019-06-16 16:40:39 tryTime:131,  successTime:131,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:42:09 picture from http
+2019-06-16 16:42:09 tryTime:132,  successTime:132,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:43:35 picture from http
+2019-06-16 16:43:35 tryTime:133,  successTime:133,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:45:01 picture from http
+2019-06-16 16:45:01 tryTime:134,  successTime:134,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:46:28 picture from http
+2019-06-16 16:46:28 tryTime:135,  successTime:135,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:47:55 picture from http
+2019-06-16 16:47:55 tryTime:136,  successTime:136,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:49:24 picture from http
+2019-06-16 16:49:24 tryTime:137,  successTime:137,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:50:50 picture from http
+2019-06-16 16:50:50 tryTime:138,  successTime:138,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:52:16 picture from http
+2019-06-16 16:52:16 tryTime:139,  successTime:139,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:53:45 picture from http
+2019-06-16 16:53:45 tryTime:140,  successTime:140,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:55:12 picture from http
+2019-06-16 16:55:12 tryTime:141,  successTime:141,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:56:38 picture from http
+2019-06-16 16:56:38 tryTime:142,  successTime:142,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:58:04 picture from http
+2019-06-16 16:58:04 tryTime:143,  successTime:143,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 16:59:34 picture from http
+2019-06-16 16:59:34 tryTime:144,  successTime:144,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:01:00 picture from http
+2019-06-16 17:01:00 tryTime:145,  successTime:145,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:02:27 picture from http
+2019-06-16 17:02:27 tryTime:146,  successTime:146,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:03:54 picture from http
+2019-06-16 17:03:54 tryTime:147,  successTime:147,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:05:19 picture from http
+2019-06-16 17:05:19 tryTime:148,  successTime:148,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:06:49 picture from http
+2019-06-16 17:06:49 tryTime:149,  successTime:149,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:08:20 picture from http
+2019-06-16 17:08:20 tryTime:150,  successTime:150,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:09:48 picture from http
+2019-06-16 17:09:48 tryTime:151,  successTime:151,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:11:15 picture from http
+2019-06-16 17:11:15 tryTime:152,  successTime:152,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:12:41 picture from http
+2019-06-16 17:12:41 tryTime:153,  successTime:153,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:14:07 picture from http
+2019-06-16 17:14:07 tryTime:154,  successTime:154,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:15:37 picture from http
+2019-06-16 17:15:37 tryTime:155,  successTime:155,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:17:08 picture from http
+2019-06-16 17:17:08 tryTime:156,  successTime:156,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:18:35 picture from http
+2019-06-16 17:18:35 tryTime:157,  successTime:157,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:20:02 picture from http
+2019-06-16 17:20:02 tryTime:158,  successTime:158,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:21:27 picture from http
+2019-06-16 17:21:27 tryTime:159,  successTime:159,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:22:56 picture from http
+2019-06-16 17:22:56 tryTime:160,  successTime:160,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:24:23 picture from http
+2019-06-16 17:24:23 tryTime:161,  successTime:161,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:25:52 picture from http
+2019-06-16 17:25:52 tryTime:162,  successTime:162,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:27:22 picture from http
+2019-06-16 17:27:22 tryTime:163,  successTime:163,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:28:49 picture from http
+2019-06-16 17:28:49 tryTime:164,  successTime:164,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:30:16 picture from http
+2019-06-16 17:30:16 tryTime:165,  successTime:165,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:31:43 picture from http
+2019-06-16 17:31:43 tryTime:166,  successTime:166,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:33:39 picture from http
+2019-06-16 17:33:39 tryTime:167,  successTime:167,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:35:06 picture from http
+2019-06-16 17:35:06 tryTime:168,  successTime:168,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:36:37 picture from http
+2019-06-16 17:36:37 tryTime:169,  successTime:169,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:38:08 picture from http
+2019-06-16 17:38:08 tryTime:170,  successTime:170,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:39:38 picture from http
+2019-06-16 17:39:38 tryTime:171,  successTime:171,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 17:41:48 picture from http
+2019-06-16 17:41:48 tryTime:173,  successTime:172,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 17:43:15 picture from http
+2019-06-16 17:43:15 tryTime:174,  successTime:173,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 17:44:42 picture from http
+2019-06-16 17:44:42 tryTime:175,  successTime:174,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 17:46:10 picture from http
+2019-06-16 17:46:10 tryTime:176,  successTime:175,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 17:47:41 picture from http
+2019-06-16 17:47:41 tryTime:177,  successTime:176,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 17:49:08 picture from http
+2019-06-16 17:49:08 tryTime:178,  successTime:177,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 17:50:39 picture from http
+2019-06-16 17:50:39 tryTime:179,  successTime:178,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 17:52:06 picture from http
+2019-06-16 17:52:06 tryTime:180,  successTime:179,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 17:53:36 picture from http
+2019-06-16 17:53:36 tryTime:181,  successTime:180,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 17:55:11 picture from http
+2019-06-16 17:55:11 tryTime:182,  successTime:181,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 17:56:36 picture from http
+2019-06-16 17:56:36 tryTime:183,  successTime:182,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 17:58:05 picture from http
+2019-06-16 17:58:05 tryTime:184,  successTime:183,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 17:59:30 picture from http
+2019-06-16 17:59:30 tryTime:185,  successTime:184,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 18:01:00 picture from http
+2019-06-16 18:01:00 tryTime:186,  successTime:185,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 18:02:36 picture from http
+2019-06-16 18:02:36 tryTime:187,  successTime:186,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 18:04:09 picture from http
+2019-06-16 18:04:09 tryTime:188,  successTime:187,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 18:05:31 picture from http
+2019-06-16 18:05:31 tryTime:189,  successTime:188,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 18:07:03 picture from http
+2019-06-16 18:07:03 tryTime:190,  successTime:189,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 18:08:29 picture from http
+2019-06-16 18:08:29 tryTime:191,  successTime:190,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 18:09:57 picture from http
+2019-06-16 18:09:57 tryTime:192,  successTime:191,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 18:11:24 picture from http
+2019-06-16 18:11:24 tryTime:193,  successTime:192,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 18:12:51 picture from http
+2019-06-16 18:12:51 tryTime:194,  successTime:193,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 18:14:16 picture from http
+2019-06-16 18:14:16 tryTime:195,  successTime:194,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 18:15:43 picture from http
+2019-06-16 18:15:43 tryTime:196,  successTime:195,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 18:17:12 picture from http
+2019-06-16 18:17:12 tryTime:197,  successTime:196,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 18:18:39 picture from http
+2019-06-16 18:18:39 tryTime:198,  successTime:197,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 18:20:06 picture from http
+2019-06-16 18:20:06 tryTime:199,  successTime:198,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 18:21:34 picture from http
+2019-06-16 18:21:34 tryTime:200,  successTime:199,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 18:23:01 picture from http
+2019-06-16 18:23:01 tryTime:201,  successTime:200,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 18:24:28 picture from http
+2019-06-16 18:24:28 tryTime:202,  successTime:201,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 18:25:54 picture from http
+2019-06-16 18:25:54 tryTime:203,  successTime:202,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 18:27:20 picture from http
+2019-06-16 18:27:20 tryTime:204,  successTime:203,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 18:28:54 picture from http
+2019-06-16 18:28:54 tryTime:205,  successTime:204,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 18:30:21 picture from http
+2019-06-16 18:30:21 tryTime:206,  successTime:205,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 18:31:50 picture from http
+2019-06-16 18:31:50 tryTime:207,  successTime:206,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 18:33:23 picture from http
+2019-06-16 18:33:23 tryTime:208,  successTime:207,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 18:35:48 picture from http
+2019-06-16 18:35:48 tryTime:209,  successTime:208,  mqttConnectFailTime:1,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-16 19:17:39 picture from json
+2019-06-16 19:17:39 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 19:18:53 black-white picture from http
+2019-06-16 19:19:31 other-white picture from http
+2019-06-16 19:19:48 tryTime:2,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 19:22:47 black-white picture from http
+2019-06-16 19:23:07 other-white picture from http
+2019-06-16 19:23:40 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 19:26:02 black-white picture from http
+2019-06-16 19:26:22 other-white picture from http
+2019-06-16 19:26:55 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 19:27:49 black-white picture from http
+2019-06-16 19:28:09 other-white picture from http
+2019-06-16 19:28:42 tryTime:2,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 19:29:39 black-white picture from http
+2019-06-16 19:29:59 other-white picture from http
+2019-06-16 19:30:32 tryTime:3,  successTime:3,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 19:31:29 black-white picture from http
+2019-06-16 19:31:51 other-white picture from http
+2019-06-16 19:32:24 tryTime:4,  successTime:4,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-16 19:33:17 black-white picture from http
+2019-06-16 19:33:37 other-white picture from http
+2019-06-16 19:34:10 tryTime:5,  successTime:5,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-17 10:25:29 black-white picture from http
+2019-06-17 10:25:49 other-white picture from http
+2019-06-17 10:26:22 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-17 10:27:40 black-white picture from http
+2019-06-17 10:28:11 other-white picture from http
+2019-06-17 10:28:44 tryTime:2,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-17 10:30:04 black-white picture from http
+2019-06-17 10:30:42 other-white picture from http
+2019-06-17 10:31:15 tryTime:3,  successTime:3,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-17 10:32:56 black-white picture from http
+2019-06-17 10:33:23 other-white picture from http
+2019-06-17 10:33:56 tryTime:4,  successTime:4,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-17 10:34:55 black-white picture from http
+2019-06-17 10:35:24 other-white picture from http
+2019-06-17 10:35:57 tryTime:5,  successTime:5,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-17 10:37:43 black-white picture from http
+2019-06-17 10:38:21 other-white picture from http
+2019-06-17 10:38:54 tryTime:6,  successTime:6,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:218,  noneMqttPackageTime:0
+2019-06-17 10:40:30 black-white picture from http
+2019-06-17 10:41:18 other-white picture from http
+2019-06-17 10:41:51 tryTime:7,  successTime:7,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:436,  noneMqttPackageTime:0
+2019-06-17 10:46:55 black-white picture from http
+2019-06-17 10:47:28 other-white picture from http
+2019-06-17 10:48:01 tryTime:9,  successTime:8,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:654,  noneMqttPackageTime:1
+2019-06-17 10:49:34 black-white picture from http
+2019-06-17 10:50:07 other-white picture from http
+2019-06-17 10:50:40 tryTime:10,  successTime:9,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:872,  noneMqttPackageTime:1
+2019-06-17 10:52:30 black-white picture from http
+2019-06-17 10:53:08 other-white picture from http
+2019-06-17 10:53:41 tryTime:11,  successTime:10,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:1090,  noneMqttPackageTime:1
+2019-06-17 10:57:09 black-white picture from http
+2019-06-17 10:57:58 other-white picture from http
+2019-06-17 10:58:31 tryTime:12,  successTime:11,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:1090,  noneMqttPackageTime:1
+2019-06-17 11:01:25 black-white picture from http
+2019-06-17 11:02:12 other-white picture from http
+2019-06-17 11:02:45 tryTime:13,  successTime:12,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:1308,  noneMqttPackageTime:1
+2019-06-17 11:04:22 black-white picture from http
+2019-06-17 11:04:58 other-white picture from http
+2019-06-17 11:05:31 tryTime:14,  successTime:13,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:1308,  noneMqttPackageTime:1
+2019-06-17 11:07:25 black-white picture from http
+2019-06-17 11:08:11 other-white picture from http
+2019-06-17 11:08:44 tryTime:15,  successTime:14,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:1308,  noneMqttPackageTime:1
+2019-06-17 11:10:17 black-white picture from http
+2019-06-17 11:10:55 other-white picture from http
+2019-06-17 11:11:28 tryTime:16,  successTime:15,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:1526,  noneMqttPackageTime:1
+2019-06-17 11:13:03 black-white picture from http
+2019-06-17 11:13:49 other-white picture from http
+2019-06-17 11:14:22 tryTime:17,  successTime:16,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:1744,  noneMqttPackageTime:1
+2019-06-17 11:16:02 black-white picture from http
+2019-06-17 11:16:51 other-white picture from http
+2019-06-17 11:17:24 tryTime:18,  successTime:17,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:1962,  noneMqttPackageTime:1
+2019-06-17 11:19:15 black-white picture from http
+2019-06-17 11:21:39 other-white picture from http
+2019-06-17 11:22:12 tryTime:19,  successTime:18,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:2180,  noneMqttPackageTime:1
+2019-06-17 11:23:45 black-white picture from http
+2019-06-17 11:40:25 other-white picture from http
+2019-06-17 11:40:58 tryTime:20,  successTime:19,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:2180,  noneMqttPackageTime:1
+2019-06-17 11:43:10 black-white picture from http
+2019-06-17 11:44:15 other-white picture from http
+2019-06-17 11:44:48 tryTime:21,  successTime:20,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:2180,  noneMqttPackageTime:1
+2019-06-17 11:46:27 black-white picture from http
+2019-06-17 11:47:48 other-white picture from http
+2019-06-17 11:48:21 tryTime:22,  successTime:21,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:2180,  noneMqttPackageTime:1
+2019-06-17 11:49:53 black-white picture from http
+2019-06-17 11:50:27 other-white picture from http
+2019-06-17 11:51:00 tryTime:23,  successTime:22,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:2180,  noneMqttPackageTime:1
+2019-06-17 11:52:40 black-white picture from http
+2019-06-17 11:53:06 other-white picture from http
+2019-06-17 11:53:39 tryTime:24,  successTime:23,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:2398,  noneMqttPackageTime:1
+2019-06-17 11:55:12 black-white picture from http
+2019-06-17 11:55:53 other-white picture from http
+2019-06-17 11:56:26 tryTime:25,  successTime:24,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:2398,  noneMqttPackageTime:1
+2019-06-17 11:57:52 black-white picture from http
+2019-06-17 11:58:23 other-white picture from http
+2019-06-17 11:58:56 tryTime:26,  successTime:25,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:2398,  noneMqttPackageTime:1
+2019-06-17 12:00:29 black-white picture from http
+2019-06-17 12:01:19 other-white picture from http
+2019-06-17 12:01:52 tryTime:27,  successTime:26,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:2398,  noneMqttPackageTime:1
+2019-06-17 12:04:05 black-white picture from http
+2019-06-17 12:04:31 other-white picture from http
+2019-06-17 12:05:04 tryTime:28,  successTime:27,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:2616,  noneMqttPackageTime:1
+2019-06-17 12:06:29 black-white picture from http
+2019-06-17 12:07:02 other-white picture from http
+2019-06-17 12:07:35 tryTime:29,  successTime:28,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:2616,  noneMqttPackageTime:1
+2019-06-17 12:08:50 black-white picture from http
+2019-06-17 12:09:21 other-white picture from http
+2019-06-17 12:09:54 tryTime:30,  successTime:29,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:2834,  noneMqttPackageTime:1
+2019-06-17 12:11:08 black-white picture from http
+2019-06-17 12:13:12 other-white picture from http
+2019-06-17 12:13:45 tryTime:31,  successTime:30,  mqttConnectFailTime:0,  httpDownloadFailTime:2,  duplicatePackageTime:3042,  noneMqttPackageTime:1
+2019-06-17 12:15:12 black-white picture from http
+2019-06-17 12:15:33 other-white picture from http
+2019-06-17 12:16:05 tryTime:32,  successTime:31,  mqttConnectFailTime:0,  httpDownloadFailTime:2,  duplicatePackageTime:3042,  noneMqttPackageTime:1
+2019-06-17 12:17:30 black-white picture from http
+2019-06-17 12:18:14 other-white picture from http
+2019-06-17 12:18:46 tryTime:33,  successTime:32,  mqttConnectFailTime:0,  httpDownloadFailTime:2,  duplicatePackageTime:3042,  noneMqttPackageTime:1
+2019-06-17 12:20:06 black-white picture from http
+2019-06-17 12:20:48 other-white picture from http
+2019-06-17 12:21:21 tryTime:34,  successTime:33,  mqttConnectFailTime:0,  httpDownloadFailTime:2,  duplicatePackageTime:3042,  noneMqttPackageTime:1
+2019-06-17 12:22:45 black-white picture from http
+2019-06-17 12:23:09 other-white picture from http
+2019-06-17 12:23:42 tryTime:35,  successTime:34,  mqttConnectFailTime:0,  httpDownloadFailTime:2,  duplicatePackageTime:3260,  noneMqttPackageTime:1
+2019-06-17 12:25:09 black-white picture from http
+2019-06-17 12:26:08 other-white picture from http
+2019-06-17 12:26:40 tryTime:36,  successTime:35,  mqttConnectFailTime:0,  httpDownloadFailTime:2,  duplicatePackageTime:3260,  noneMqttPackageTime:1
+2019-06-17 12:28:24 black-white picture from http
+2019-06-17 12:28:49 other-white picture from http
+2019-06-17 12:29:22 tryTime:37,  successTime:36,  mqttConnectFailTime:0,  httpDownloadFailTime:2,  duplicatePackageTime:3478,  noneMqttPackageTime:1
+2019-06-17 12:31:01 black-white picture from http
+2019-06-17 12:31:32 other-white picture from http
+2019-06-17 12:32:05 tryTime:38,  successTime:37,  mqttConnectFailTime:0,  httpDownloadFailTime:2,  duplicatePackageTime:3478,  noneMqttPackageTime:1
+2019-06-17 12:33:16 black-white picture from http
+2019-06-17 12:33:42 other-white picture from http
+2019-06-17 12:34:14 tryTime:39,  successTime:38,  mqttConnectFailTime:0,  httpDownloadFailTime:2,  duplicatePackageTime:3478,  noneMqttPackageTime:1
+2019-06-17 12:35:43 black-white picture from http
+2019-06-17 12:36:41 other-white picture from http
+2019-06-17 12:37:14 tryTime:40,  successTime:39,  mqttConnectFailTime:0,  httpDownloadFailTime:2,  duplicatePackageTime:3478,  noneMqttPackageTime:1
+2019-06-17 12:39:02 black-white picture from http
+2019-06-17 12:39:36 other-white picture from http
+2019-06-17 12:40:09 tryTime:41,  successTime:40,  mqttConnectFailTime:0,  httpDownloadFailTime:2,  duplicatePackageTime:3696,  noneMqttPackageTime:1
+2019-06-17 12:41:44 black-white picture from http
+2019-06-17 12:42:05 other-white picture from http
+2019-06-17 12:42:38 tryTime:42,  successTime:41,  mqttConnectFailTime:0,  httpDownloadFailTime:2,  duplicatePackageTime:3696,  noneMqttPackageTime:1
+2019-06-17 12:44:04 black-white picture from http
+2019-06-17 12:44:44 other-white picture from http
+2019-06-17 12:45:17 tryTime:43,  successTime:42,  mqttConnectFailTime:0,  httpDownloadFailTime:2,  duplicatePackageTime:3914,  noneMqttPackageTime:1
+2019-06-17 12:46:41 black-white picture from http
+2019-06-17 12:47:12 other-white picture from http
+2019-06-17 12:47:45 tryTime:44,  successTime:43,  mqttConnectFailTime:0,  httpDownloadFailTime:2,  duplicatePackageTime:3914,  noneMqttPackageTime:1
+2019-06-17 12:49:45 black-white picture from http
+2019-06-17 12:51:51 other-white picture from http
+2019-06-17 12:52:24 tryTime:45,  successTime:44,  mqttConnectFailTime:0,  httpDownloadFailTime:2,  duplicatePackageTime:4132,  noneMqttPackageTime:1
+2019-06-17 12:54:07 black-white picture from http
+2019-06-17 12:55:06 other-white picture from http
+2019-06-17 12:55:39 tryTime:46,  successTime:45,  mqttConnectFailTime:0,  httpDownloadFailTime:2,  duplicatePackageTime:4350,  noneMqttPackageTime:1
+2019-06-17 12:58:11 black-white picture from http
+2019-06-17 12:58:43 other-white picture from http
+2019-06-17 12:59:16 tryTime:47,  successTime:46,  mqttConnectFailTime:0,  httpDownloadFailTime:2,  duplicatePackageTime:4350,  noneMqttPackageTime:1
+2019-06-17 13:00:56 black-white picture from http
+2019-06-17 13:01:50 other-white picture from http
+2019-06-17 13:02:23 tryTime:48,  successTime:47,  mqttConnectFailTime:0,  httpDownloadFailTime:2,  duplicatePackageTime:4350,  noneMqttPackageTime:1
+2019-06-17 13:04:08 black-white picture from http
+2019-06-17 13:04:54 other-white picture from http
+2019-06-17 13:05:26 tryTime:49,  successTime:48,  mqttConnectFailTime:0,  httpDownloadFailTime:2,  duplicatePackageTime:4568,  noneMqttPackageTime:1
+2019-06-20 19:05:33 black-white picture from http
+2019-06-20 19:05:53 other-white picture from http
+2019-06-20 19:06:26 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-20 19:07:19 black-white picture from http
+2019-06-20 19:08:27 black-white picture from http
+2019-06-20 19:10:15 black-white picture from http
+2019-06-20 19:10:35 other-white picture from http
+2019-06-20 19:11:08 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-20 19:12:00 black-white picture from http
+2019-06-20 19:12:20 other-white picture from http
+2019-06-20 19:12:53 tryTime:2,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-20 19:13:50 black-white picture from http
+2019-06-20 19:14:11 other-white picture from http
+2019-06-20 19:14:44 tryTime:3,  successTime:3,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-20 19:15:38 black-white picture from http
+2019-06-20 19:15:57 other-white picture from http
+2019-06-20 19:16:30 tryTime:4,  successTime:4,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-20 19:17:25 black-white picture from http
+2019-06-20 19:17:45 other-white picture from http
+2019-06-20 19:18:18 tryTime:5,  successTime:5,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-21 02:19:13 black-white picture from http
+2019-06-21 02:19:33 other-white picture from http
+2019-06-21 02:20:06 tryTime:6,  successTime:6,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-21 02:20:59 black-white picture from http
+2019-06-21 02:21:20 other-white picture from http
+2019-06-21 02:21:53 tryTime:7,  successTime:7,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-21 02:22:46 black-white picture from http
+2019-06-21 02:23:07 other-white picture from http
+2019-06-21 02:23:40 tryTime:8,  successTime:8,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-21 02:24:33 black-white picture from http
+2019-06-21 02:24:54 other-white picture from http
+2019-06-21 02:25:26 tryTime:9,  successTime:9,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-21 02:26:22 black-white picture from http
+2019-06-21 02:26:42 other-white picture from http
+2019-06-21 02:27:15 tryTime:10,  successTime:10,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-21 02:28:08 black-white picture from http
+2019-06-21 02:28:26 other-white picture from http
+2019-06-21 02:28:59 tryTime:11,  successTime:11,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-21 02:29:57 black-white picture from http
+2019-06-21 02:30:18 other-white picture from http
+2019-06-21 02:30:51 tryTime:12,  successTime:12,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-21 02:31:43 black-white picture from http
+2019-06-21 02:32:03 other-white picture from http
+2019-06-21 02:32:36 tryTime:13,  successTime:13,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-21 02:33:33 black-white picture from http
+2019-06-21 02:33:53 other-white picture from http
+2019-06-21 02:34:26 tryTime:14,  successTime:14,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-21 02:35:20 black-white picture from http
+2019-06-21 02:35:40 other-white picture from http
+2019-06-21 02:36:13 tryTime:15,  successTime:15,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-21 03:34:38 black-white picture from http
+2019-06-21 03:34:58 other-white picture from http
+2019-06-21 03:35:31 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-21 03:36:26 black-white picture from http
+2019-06-21 03:36:46 other-white picture from http
+2019-06-21 03:37:19 tryTime:2,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-21 03:38:15 black-white picture from http
+2019-06-21 03:38:34 other-white picture from http
+2019-06-21 03:39:07 tryTime:3,  successTime:3,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-21 03:40:00 black-white picture from http
+2019-06-21 03:40:21 other-white picture from http
+2019-06-21 03:40:54 tryTime:4,  successTime:4,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-21 03:41:48 black-white picture from http
+2019-06-21 03:42:08 other-white picture from http
+2019-06-21 03:42:41 tryTime:5,  successTime:5,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-21 03:43:36 black-white picture from http
+2019-06-21 03:43:56 other-white picture from http
+2019-06-21 03:44:29 tryTime:6,  successTime:6,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-21 03:47:08 black-white picture from http
+2019-06-21 03:47:26 other-white picture from http
+2019-06-21 03:47:59 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-21 03:48:55 black-white picture from http
+2019-06-21 03:49:14 other-white picture from http
+2019-06-21 03:49:47 tryTime:2,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-21 14:54:52 black-white picture from http
+2019-06-21 14:55:13 other-white picture from http
+2019-06-21 14:55:46 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-21 14:56:47 black-white picture from http
+2019-06-21 14:57:09 other-white picture from http
+2019-06-21 14:57:42 tryTime:2,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-21 14:58:58 black-white picture from http
+2019-06-21 14:59:23 other-white picture from http
+2019-06-21 14:59:55 tryTime:3,  successTime:3,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-21 15:01:17 black-white picture from http
+2019-06-21 15:01:35 other-white picture from http
+2019-06-21 15:02:08 tryTime:4,  successTime:4,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:218,  noneMqttPackageTime:0
+2019-06-21 15:03:02 black-white picture from http
+2019-06-21 15:03:23 other-white picture from http
+2019-06-21 15:03:56 tryTime:5,  successTime:5,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:218,  noneMqttPackageTime:0
+2019-06-21 15:05:33 black-white picture from http
+2019-06-21 15:06:21 other-white picture from http
+2019-06-21 15:06:54 tryTime:6,  successTime:6,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:436,  noneMqttPackageTime:0
+2019-06-21 15:07:59 black-white picture from http
+2019-06-21 15:08:19 other-white picture from http
+2019-06-21 15:08:51 tryTime:7,  successTime:7,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:436,  noneMqttPackageTime:0
+2019-06-21 15:10:26 black-white picture from http
+2019-06-21 15:11:08 other-white picture from http
+2019-06-21 15:11:41 tryTime:8,  successTime:8,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:654,  noneMqttPackageTime:0
+2019-06-21 15:12:42 black-white picture from http
+2019-06-21 15:13:05 other-white picture from http
+2019-06-21 15:13:38 tryTime:9,  successTime:9,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:654,  noneMqttPackageTime:0
+2019-06-21 15:14:39 black-white picture from http
+2019-06-21 15:15:01 other-white picture from http
+2019-06-21 15:15:34 tryTime:10,  successTime:10,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:654,  noneMqttPackageTime:0
+2019-06-21 15:16:36 black-white picture from http
+2019-06-21 15:16:57 other-white picture from http
+2019-06-21 15:17:30 tryTime:11,  successTime:11,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:654,  noneMqttPackageTime:0
+2019-06-21 15:21:24 black-white picture from http
+2019-06-21 15:21:43 other-white picture from http
+2019-06-21 15:22:16 tryTime:12,  successTime:12,  mqttConnectFailTime:1,  httpDownloadFailTime:0,  duplicatePackageTime:654,  noneMqttPackageTime:0
+2019-06-21 15:24:32 black-white picture from http
+2019-06-21 15:24:55 other-white picture from http
+2019-06-21 15:25:28 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-21 15:26:29 black-white picture from http
+2019-06-21 15:26:51 other-white picture from http
+2019-06-21 15:27:24 tryTime:2,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-21 15:28:38 black-white picture from http
+2019-06-21 15:29:18 other-white picture from http
+2019-06-21 15:29:51 tryTime:3,  successTime:3,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:218,  noneMqttPackageTime:0
+2019-06-21 15:30:54 black-white picture from http
+2019-06-21 15:31:34 other-white picture from http
+2019-06-21 15:32:07 tryTime:4,  successTime:4,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:218,  noneMqttPackageTime:0
+2019-06-21 15:34:29 black-white picture from http
+2019-06-21 15:35:15 other-white picture from http
+2019-06-21 15:35:48 tryTime:5,  successTime:5,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:436,  noneMqttPackageTime:0
+2019-06-21 15:38:11 black-white picture from http
+2019-06-21 15:38:43 other-white picture from http
+2019-06-21 15:39:16 tryTime:6,  successTime:6,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:436,  noneMqttPackageTime:0
+2019-06-21 15:40:50 black-white picture from http
+2019-06-21 15:41:32 other-white picture from http
+2019-06-21 15:42:05 tryTime:7,  successTime:7,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:654,  noneMqttPackageTime:0
+2019-06-21 15:43:35 black-white picture from http
+2019-06-21 15:44:17 other-white picture from http
+2019-06-21 15:44:50 tryTime:8,  successTime:8,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:654,  noneMqttPackageTime:0
+2019-06-21 15:46:38 black-white picture from http
+2019-06-21 15:47:07 other-white picture from http
+2019-06-21 15:47:40 tryTime:9,  successTime:9,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:654,  noneMqttPackageTime:0
+2019-06-21 15:48:54 black-white picture from http
+2019-06-21 15:49:27 other-white picture from http
+2019-06-21 15:50:00 tryTime:10,  successTime:10,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:654,  noneMqttPackageTime:0
+2019-06-21 15:51:20 black-white picture from http
+2019-06-21 15:51:49 other-white picture from http
+2019-06-21 15:52:22 tryTime:11,  successTime:11,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:654,  noneMqttPackageTime:0
+2019-06-21 15:53:28 black-white picture from http
+2019-06-21 15:53:49 other-white picture from http
+2019-06-21 15:54:21 tryTime:12,  successTime:12,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:654,  noneMqttPackageTime:0
+2019-06-21 15:55:36 black-white picture from http
+2019-06-21 15:56:25 other-white picture from http
+2019-06-21 15:56:58 tryTime:13,  successTime:13,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:872,  noneMqttPackageTime:0
+2019-06-21 15:58:07 black-white picture from http
+2019-06-21 15:58:27 other-white picture from http
+2019-06-21 15:59:00 tryTime:14,  successTime:14,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:1090,  noneMqttPackageTime:0
+2019-06-21 16:00:20 black-white picture from http
+2019-06-21 16:00:40 other-white picture from http
+2019-06-21 16:01:13 tryTime:15,  successTime:15,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:1090,  noneMqttPackageTime:0
+2019-06-21 16:20:26 black-white picture from http
+2019-06-21 16:20:55 other-white picture from http
+2019-06-21 16:21:28 tryTime:17,  successTime:16,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1090,  noneMqttPackageTime:1
+2019-06-21 16:22:40 black-white picture from http
+2019-06-21 16:23:15 other-white picture from http
+2019-06-21 16:23:48 tryTime:18,  successTime:17,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1090,  noneMqttPackageTime:1
+2019-06-21 16:25:32 black-white picture from http
+2019-06-21 16:25:55 other-white picture from http
+2019-06-21 16:26:28 tryTime:19,  successTime:18,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1308,  noneMqttPackageTime:1
+2019-06-21 16:27:29 black-white picture from http
+2019-06-21 16:27:54 other-white picture from http
+2019-06-21 16:28:26 tryTime:20,  successTime:19,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1308,  noneMqttPackageTime:1
+2019-06-21 16:29:38 black-white picture from http
+2019-06-21 16:30:03 other-white picture from http
+2019-06-21 16:30:36 tryTime:21,  successTime:20,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1308,  noneMqttPackageTime:1
+2019-06-21 16:31:51 black-white picture from http
+2019-06-21 16:32:18 other-white picture from http
+2019-06-21 16:32:51 tryTime:22,  successTime:21,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1308,  noneMqttPackageTime:1
+2019-06-21 16:34:09 black-white picture from http
+2019-06-21 16:34:34 other-white picture from http
+2019-06-21 16:35:07 tryTime:23,  successTime:22,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1308,  noneMqttPackageTime:1
+2019-06-21 16:36:15 black-white picture from http
+2019-06-21 16:36:39 other-white picture from http
+2019-06-21 16:37:12 tryTime:24,  successTime:23,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1308,  noneMqttPackageTime:1
+2019-06-21 16:38:16 black-white picture from http
+2019-06-21 16:38:44 other-white picture from http
+2019-06-21 16:39:17 tryTime:25,  successTime:24,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1308,  noneMqttPackageTime:1
+2019-06-21 16:40:17 black-white picture from http
+2019-06-21 16:40:39 other-white picture from http
+2019-06-21 16:41:12 tryTime:26,  successTime:25,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1308,  noneMqttPackageTime:1
+2019-06-21 16:42:07 black-white picture from http
+2019-06-21 16:42:44 other-white picture from http
+2019-06-21 16:43:17 tryTime:27,  successTime:26,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1308,  noneMqttPackageTime:1
+2019-06-21 16:44:40 black-white picture from http
+2019-06-21 16:45:05 other-white picture from http
+2019-06-21 16:45:38 tryTime:28,  successTime:27,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1308,  noneMqttPackageTime:1
+2019-06-21 16:46:42 black-white picture from http
+2019-06-21 16:47:17 other-white picture from http
+2019-06-21 16:47:49 tryTime:29,  successTime:28,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1308,  noneMqttPackageTime:1
+2019-06-21 16:48:45 black-white picture from http
+2019-06-21 16:49:11 other-white picture from http
+2019-06-21 16:49:43 tryTime:30,  successTime:29,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1308,  noneMqttPackageTime:1
+2019-06-21 16:50:39 black-white picture from http
+2019-06-21 16:50:59 other-white picture from http
+2019-06-21 16:51:32 tryTime:31,  successTime:30,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1308,  noneMqttPackageTime:1
+2019-06-21 16:53:08 black-white picture from http
+2019-06-21 16:53:27 other-white picture from http
+2019-06-21 16:54:00 tryTime:32,  successTime:31,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1308,  noneMqttPackageTime:1
+2019-06-21 16:55:10 black-white picture from http
+2019-06-21 16:55:33 other-white picture from http
+2019-06-21 16:56:06 tryTime:33,  successTime:32,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1308,  noneMqttPackageTime:1
+2019-06-21 16:57:27 black-white picture from http
+2019-06-21 16:57:58 other-white picture from http
+2019-06-21 16:58:31 tryTime:34,  successTime:33,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1308,  noneMqttPackageTime:1
+2019-06-21 16:59:30 black-white picture from http
+2019-06-21 16:59:53 other-white picture from http
+2019-06-21 17:00:26 tryTime:35,  successTime:34,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1308,  noneMqttPackageTime:1
+2019-06-21 17:02:44 black-white picture from http
+2019-06-21 17:03:11 other-white picture from http
+2019-06-21 17:03:44 tryTime:36,  successTime:35,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1526,  noneMqttPackageTime:1
+2019-06-21 17:05:04 black-white picture from http
+2019-06-21 17:05:49 other-white picture from http
+2019-06-21 17:06:22 tryTime:37,  successTime:36,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1744,  noneMqttPackageTime:1
+2019-06-21 17:08:18 black-white picture from http
+2019-06-21 17:08:56 other-white picture from http
+2019-06-21 17:09:29 tryTime:38,  successTime:37,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1744,  noneMqttPackageTime:1
+2019-06-21 17:10:46 black-white picture from http
+2019-06-21 17:11:08 other-white picture from http
+2019-06-21 17:11:41 tryTime:39,  successTime:38,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1744,  noneMqttPackageTime:1
+2019-06-21 17:12:53 black-white picture from http
+2019-06-21 17:13:40 other-white picture from http
+2019-06-21 17:14:13 tryTime:40,  successTime:39,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1744,  noneMqttPackageTime:1
+2019-06-21 17:15:23 black-white picture from http
+2019-06-21 17:15:56 other-white picture from http
+2019-06-21 17:16:29 tryTime:41,  successTime:40,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1744,  noneMqttPackageTime:1
+2019-06-21 17:17:59 black-white picture from http
+2019-06-21 17:18:47 other-white picture from http
+2019-06-21 17:19:20 tryTime:42,  successTime:41,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1744,  noneMqttPackageTime:1
+2019-06-21 17:20:50 black-white picture from http
+2019-06-21 17:21:39 other-white picture from http
+2019-06-21 17:22:11 tryTime:43,  successTime:42,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1744,  noneMqttPackageTime:1
+2019-06-21 17:24:05 black-white picture from http
+2019-06-21 17:24:41 other-white picture from http
+2019-06-21 17:25:14 tryTime:44,  successTime:43,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1744,  noneMqttPackageTime:1
+2019-06-21 17:28:27 black-white picture from http
+2019-06-21 17:28:57 other-white picture from http
+2019-06-21 17:29:30 tryTime:45,  successTime:44,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1744,  noneMqttPackageTime:1
+2019-06-21 17:30:53 black-white picture from http
+2019-06-21 17:31:30 other-white picture from http
+2019-06-21 17:32:03 tryTime:46,  successTime:45,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1962,  noneMqttPackageTime:1
+2019-06-21 17:32:58 black-white picture from http
+2019-06-21 17:33:36 other-white picture from http
+2019-06-21 17:34:09 tryTime:47,  successTime:46,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1962,  noneMqttPackageTime:1
+2019-06-21 17:35:39 black-white picture from http
+2019-06-21 17:36:02 other-white picture from http
+2019-06-21 17:36:35 tryTime:48,  successTime:47,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1962,  noneMqttPackageTime:1
+2019-06-21 17:38:00 black-white picture from http
+2019-06-21 17:38:48 other-white picture from http
+2019-06-21 17:39:21 tryTime:49,  successTime:48,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1962,  noneMqttPackageTime:1
+2019-06-21 17:40:35 black-white picture from http
+2019-06-21 17:41:46 other-white picture from http
+2019-06-21 17:42:19 tryTime:50,  successTime:49,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1962,  noneMqttPackageTime:1
+2019-06-21 17:44:03 black-white picture from http
+2019-06-21 17:45:09 other-white picture from http
+2019-06-21 17:45:42 tryTime:51,  successTime:50,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1962,  noneMqttPackageTime:1
+2019-06-21 17:49:28 black-white picture from http
+2019-06-21 17:50:03 other-white picture from http
+2019-06-21 17:50:36 tryTime:53,  successTime:51,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:2180,  noneMqttPackageTime:2
+2019-06-21 17:51:41 black-white picture from http
+2019-06-21 17:52:18 other-white picture from http
+2019-06-21 17:52:51 tryTime:54,  successTime:52,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:2180,  noneMqttPackageTime:2
+2019-06-21 18:28:40 black-white picture from http
+2019-06-21 18:29:26 other-white picture from http
+2019-06-21 18:29:59 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:218,  noneMqttPackageTime:0
+2019-06-21 18:36:48 black-white picture from http
+2019-06-21 18:37:28 other-white picture from http
+2019-06-21 18:38:01 tryTime:4,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:436,  noneMqttPackageTime:2
+2019-06-21 18:39:22 black-white picture from http
+2019-06-21 18:39:50 other-white picture from http
+2019-06-21 18:40:23 tryTime:5,  successTime:3,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:436,  noneMqttPackageTime:2
+2019-06-21 18:41:39 black-white picture from http
+2019-06-21 18:42:09 other-white picture from http
+2019-06-21 18:42:41 tryTime:6,  successTime:4,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:654,  noneMqttPackageTime:2
+2019-06-21 18:44:11 black-white picture from http
+2019-06-21 18:44:47 other-white picture from http
+2019-06-21 18:45:19 tryTime:7,  successTime:5,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:654,  noneMqttPackageTime:2
+2019-06-21 18:46:31 black-white picture from http
+2019-06-21 18:47:06 other-white picture from http
+2019-06-21 18:47:39 tryTime:8,  successTime:6,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:654,  noneMqttPackageTime:2
+2019-06-21 18:49:00 black-white picture from http
+2019-06-21 18:49:31 other-white picture from http
+2019-06-21 18:50:04 tryTime:9,  successTime:7,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:654,  noneMqttPackageTime:2
+2019-06-21 18:52:13 black-white picture from http
+2019-06-21 18:52:58 other-white picture from http
+2019-06-21 18:53:31 tryTime:10,  successTime:8,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:654,  noneMqttPackageTime:2
+2019-06-21 18:54:53 black-white picture from http
+2019-06-21 18:55:22 other-white picture from http
+2019-06-21 18:55:55 tryTime:11,  successTime:9,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:654,  noneMqttPackageTime:2
+2019-06-21 18:57:29 black-white picture from http
+2019-06-21 18:58:03 other-white picture from http
+2019-06-21 18:58:36 tryTime:12,  successTime:10,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:872,  noneMqttPackageTime:2
+2019-06-21 19:00:08 black-white picture from http
+2019-06-21 19:00:57 other-white picture from http
+2019-06-21 19:01:30 tryTime:13,  successTime:11,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:1090,  noneMqttPackageTime:2
+2019-06-21 19:03:21 black-white picture from http
+2019-06-21 19:03:49 other-white picture from http
+2019-06-21 19:04:22 tryTime:14,  successTime:12,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:1308,  noneMqttPackageTime:2
+2019-06-21 19:06:03 black-white picture from http
+2019-06-21 19:06:54 other-white picture from http
+2019-06-21 19:07:27 tryTime:15,  successTime:13,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:1526,  noneMqttPackageTime:2
+2019-06-21 19:08:53 black-white picture from http
+2019-06-21 19:09:19 other-white picture from http
+2019-06-21 19:09:52 tryTime:16,  successTime:14,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:1526,  noneMqttPackageTime:2
+2019-06-21 19:11:40 black-white picture from http
+2019-06-21 19:12:23 other-white picture from http
+2019-06-21 19:12:56 tryTime:17,  successTime:15,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:1526,  noneMqttPackageTime:2
+2019-06-21 19:30:22 black-white picture from http
+2019-06-21 19:31:02 other-white picture from http
+2019-06-21 19:31:35 tryTime:18,  successTime:16,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1526,  noneMqttPackageTime:2
+2019-06-21 19:33:16 black-white picture from http
+2019-06-21 19:33:57 other-white picture from http
+2019-06-21 19:34:30 tryTime:19,  successTime:17,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1526,  noneMqttPackageTime:2
+2019-06-21 19:36:21 black-white picture from http
+2019-06-21 19:37:22 other-white picture from http
+2019-06-21 19:37:54 tryTime:20,  successTime:18,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1526,  noneMqttPackageTime:2
+2019-06-21 19:39:39 black-white picture from http
+2019-06-21 19:40:12 other-white picture from http
+2019-06-21 19:40:45 tryTime:21,  successTime:19,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1744,  noneMqttPackageTime:2
+2019-06-21 19:42:32 black-white picture from http
+2019-06-21 19:43:25 other-white picture from http
+2019-06-21 19:43:58 tryTime:22,  successTime:20,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:1962,  noneMqttPackageTime:2
+2019-06-21 19:45:40 black-white picture from http
+2019-06-21 19:46:16 other-white picture from http
+2019-06-21 19:46:49 tryTime:23,  successTime:21,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:2180,  noneMqttPackageTime:2
+2019-06-21 19:48:31 black-white picture from http
+2019-06-21 19:49:20 other-white picture from http
+2019-06-21 19:49:53 tryTime:24,  successTime:22,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:2387,  noneMqttPackageTime:2
+2019-06-21 19:51:31 black-white picture from http
+2019-06-21 19:52:22 other-white picture from http
+2019-06-21 19:52:55 tryTime:25,  successTime:23,  mqttConnectFailTime:0,  httpDownloadFailTime:1,  duplicatePackageTime:2387,  noneMqttPackageTime:2
+2019-06-21 19:57:33 black-white picture from http
+2019-06-21 19:58:17 other-white picture from http
+2019-06-21 19:58:50 tryTime:26,  successTime:24,  mqttConnectFailTime:1,  httpDownloadFailTime:1,  duplicatePackageTime:2387,  noneMqttPackageTime:2
+2019-06-21 20:00:31 black-white picture from http
+2019-06-21 20:01:16 other-white picture from http
+2019-06-21 20:01:49 tryTime:27,  successTime:25,  mqttConnectFailTime:1,  httpDownloadFailTime:1,  duplicatePackageTime:2605,  noneMqttPackageTime:2
+2019-06-21 20:03:51 black-white picture from http
+2019-06-21 20:04:34 other-white picture from http
+2019-06-21 20:05:06 tryTime:28,  successTime:26,  mqttConnectFailTime:1,  httpDownloadFailTime:1,  duplicatePackageTime:2823,  noneMqttPackageTime:2
+2019-06-21 20:06:52 black-white picture from http
+2019-06-21 20:07:40 other-white picture from http
+2019-06-21 20:08:13 tryTime:29,  successTime:27,  mqttConnectFailTime:1,  httpDownloadFailTime:1,  duplicatePackageTime:2823,  noneMqttPackageTime:2
+2019-06-21 20:10:08 black-white picture from http
+2019-06-22 14:14:22 black-white picture from http
+2019-06-22 14:16:58 black-white picture from http
+2019-06-22 14:17:22 other-white picture from http
+2019-06-22 14:17:55 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-22 14:18:59 black-white picture from http
+2019-06-22 14:19:24 other-white picture from http
+2019-06-22 14:19:57 tryTime:2,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-22 14:20:59 black-white picture from http
+2019-06-22 14:21:22 other-white picture from http
+2019-06-22 14:21:55 tryTime:3,  successTime:3,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-22 14:22:50 black-white picture from http
+2019-06-22 14:23:14 other-white picture from http
+2019-06-22 14:24:47 black-white picture from http
+2019-06-22 14:25:12 other-white picture from http
+2019-06-22 14:25:27 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-22 14:26:36 black-white picture from http
+2019-06-22 14:26:59 other-white picture from http
+2019-06-22 14:27:00 tryTime:2,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-22 14:28:08 black-white picture from http
+2019-06-22 14:28:30 other-white picture from http
+2019-06-22 14:29:03 tryTime:3,  successTime:3,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-22 14:30:03 black-white picture from http
+2019-06-22 14:30:29 other-white picture from http
+2019-06-22 14:31:02 tryTime:4,  successTime:4,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-22 14:31:59 black-white picture from http
+2019-06-22 14:34:06 other-white picture from http
+2019-06-22 14:34:39 tryTime:5,  successTime:5,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-22 14:35:39 black-white picture from http
+2019-06-22 14:35:59 other-white picture from http
+2019-06-22 14:36:32 tryTime:6,  successTime:6,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-22 14:37:32 black-white picture from http
+2019-06-22 14:37:52 other-white picture from http
+2019-06-22 14:38:25 tryTime:7,  successTime:7,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-22 14:39:59 black-white picture from http
+2019-06-22 14:40:21 other-white picture from http
+2019-06-22 14:40:54 tryTime:8,  successTime:8,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-22 14:41:55 black-white picture from http
+2019-06-22 14:42:17 other-white picture from http
+2019-06-22 14:42:50 tryTime:9,  successTime:9,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-22 14:43:45 black-white picture from http
+2019-06-22 14:44:11 other-white picture from http
+2019-06-22 14:44:44 tryTime:10,  successTime:10,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-22 14:45:47 black-white picture from http
+2019-06-22 14:46:10 other-white picture from http
+2019-06-22 14:46:43 tryTime:11,  successTime:11,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-22 14:47:46 black-white picture from http
+2019-06-22 14:48:06 other-white picture from http
+2019-06-22 14:48:38 tryTime:12,  successTime:12,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-22 14:49:35 black-white picture from http
+2019-06-22 14:49:54 other-white picture from http
+2019-06-24 02:05:36 black-white picture from http
+2019-06-24 02:05:56 other-white picture from http
+2019-06-24 02:06:29 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 02:07:26 black-white picture from http
+2019-06-24 02:07:46 other-white picture from http
+2019-06-24 02:08:19 tryTime:2,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 02:09:13 black-white picture from http
+2019-06-24 02:09:34 other-white picture from http
+2019-06-24 02:10:07 tryTime:3,  successTime:3,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 02:11:03 black-white picture from http
+2019-06-24 02:11:22 other-white picture from http
+2019-06-24 02:11:55 tryTime:4,  successTime:4,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 02:12:48 black-white picture from http
+2019-06-24 02:13:08 other-white picture from http
+2019-06-24 02:13:41 tryTime:5,  successTime:5,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 02:14:36 black-white picture from http
+2019-06-24 02:14:56 other-white picture from http
+2019-06-24 02:15:29 tryTime:6,  successTime:6,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 02:16:23 black-white picture from http
+2019-06-24 02:16:44 other-white picture from http
+2019-06-24 02:17:17 tryTime:7,  successTime:7,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 02:18:10 black-white picture from http
+2019-06-24 02:18:31 other-white picture from http
+2019-06-24 02:19:04 tryTime:8,  successTime:8,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 02:19:59 black-white picture from http
+2019-06-24 02:20:18 other-white picture from http
+2019-06-24 02:20:51 tryTime:9,  successTime:9,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 02:21:46 black-white picture from http
+2019-06-24 02:22:06 other-white picture from http
+2019-06-24 02:22:39 tryTime:10,  successTime:10,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 02:23:34 black-white picture from http
+2019-06-24 02:23:53 other-white picture from http
+2019-06-24 02:24:26 tryTime:11,  successTime:11,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 02:25:21 black-white picture from http
+2019-06-24 02:25:41 other-white picture from http
+2019-06-24 02:26:14 tryTime:12,  successTime:12,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 02:27:09 black-white picture from http
+2019-06-24 02:27:29 other-white picture from http
+2019-06-24 02:28:02 tryTime:13,  successTime:13,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 02:28:56 black-white picture from http
+2019-06-24 02:29:16 other-white picture from http
+2019-06-24 02:29:49 tryTime:14,  successTime:14,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 02:30:44 black-white picture from http
+2019-06-24 02:31:03 other-white picture from http
+2019-06-24 02:31:36 tryTime:15,  successTime:15,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 02:32:31 black-white picture from http
+2019-06-24 02:32:52 other-white picture from http
+2019-06-24 02:33:25 tryTime:16,  successTime:16,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 02:34:19 black-white picture from http
+2019-06-24 02:34:39 other-white picture from http
+2019-06-24 02:35:12 tryTime:17,  successTime:17,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 02:36:06 black-white picture from http
+2019-06-24 02:36:26 other-white picture from http
+2019-06-24 02:36:59 tryTime:18,  successTime:18,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 03:37:20 black-white picture from http
+2019-06-24 03:37:39 other-white picture from http
+2019-06-24 03:38:12 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 03:39:10 black-white picture from http
+2019-06-24 03:39:30 other-white picture from http
+2019-06-24 03:40:03 tryTime:2,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 03:41:26 black-white picture from http
+2019-06-24 03:41:48 other-white picture from http
+2019-06-24 03:42:21 tryTime:3,  successTime:3,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 15:49:58 black-white picture from http
+2019-06-24 15:50:18 other-white picture from http
+2019-06-24 15:50:51 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 15:51:46 black-white picture from http
+2019-06-24 15:52:05 other-white picture from http
+2019-06-24 15:52:38 tryTime:2,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 15:53:35 black-white picture from http
+2019-06-24 15:53:58 other-white picture from http
+2019-06-24 15:54:31 tryTime:3,  successTime:3,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 15:55:25 black-white picture from http
+2019-06-24 15:55:46 other-white picture from http
+2019-06-24 15:56:18 tryTime:4,  successTime:4,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 15:57:13 black-white picture from http
+2019-06-24 15:57:34 other-white picture from http
+2019-06-24 15:58:07 tryTime:5,  successTime:5,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 15:59:02 black-white picture from http
+2019-06-24 15:59:21 other-white picture from http
+2019-06-24 15:59:54 tryTime:6,  successTime:6,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 16:01:39 black-white picture from http
+2019-06-24 16:01:59 other-white picture from http
+2019-06-24 16:02:32 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 16:03:26 black-white picture from http
+2019-06-24 16:03:47 other-white picture from http
+2019-06-24 16:04:20 tryTime:2,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 16:05:14 black-white picture from http
+2019-06-24 16:05:55 other-white picture from http
+2019-06-24 16:06:28 tryTime:3,  successTime:3,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 16:08:26 black-white picture from http
+2019-06-24 16:08:47 other-white picture from http
+2019-06-24 16:09:20 tryTime:5,  successTime:4,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-24 16:10:16 black-white picture from http
+2019-06-24 16:10:37 other-white picture from http
+2019-06-24 16:11:09 tryTime:6,  successTime:5,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-24 16:12:04 black-white picture from http
+2019-06-24 16:12:24 other-white picture from http
+2019-06-24 16:12:57 tryTime:7,  successTime:6,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-24 16:13:52 black-white picture from http
+2019-06-24 16:14:12 other-white picture from http
+2019-06-24 16:14:45 tryTime:8,  successTime:7,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-24 16:15:39 black-white picture from http
+2019-06-24 16:15:59 other-white picture from http
+2019-06-24 16:16:32 tryTime:9,  successTime:8,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:1
+2019-06-24 16:17:26 black-white picture from http
+2019-06-24 16:19:32 black-white picture from http
+2019-06-24 16:20:00 other-white picture from http
+2019-06-24 16:20:30 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 16:21:36 black-white picture from http
+2019-06-24 16:22:05 other-white picture from http
+2019-06-24 16:22:35 tryTime:2,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 16:24:20 black-white picture from http
+2019-06-24 16:24:51 other-white picture from http
+2019-06-24 16:25:21 tryTime:3,  successTime:3,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 16:31:51 black-white picture from http
+2019-06-24 16:32:20 other-white picture from http
+2019-06-24 16:32:50 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 16:33:55 black-white picture from http
+2019-06-24 16:41:49 black-white picture from http
+2019-06-24 16:42:18 other-white picture from http
+2019-06-24 16:42:33 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 16:43:37 black-white picture from http
+2019-06-24 16:44:08 other-white picture from http
+2019-06-24 16:44:38 tryTime:2,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 16:45:44 black-white picture from http
+2019-06-24 16:46:13 other-white picture from http
+2019-06-24 16:46:44 tryTime:3,  successTime:3,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 17:13:35 black-white picture from http
+2019-06-24 17:14:03 other-white picture from http
+2019-06-24 17:14:34 tryTime:2,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:5,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 17:15:35 black-white picture from http
+2019-06-24 17:16:03 other-white picture from http
+2019-06-24 17:16:33 tryTime:3,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:5,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 17:17:38 black-white picture from http
+2019-06-24 17:18:04 other-white picture from http
+2019-06-24 17:18:34 tryTime:4,  successTime:3,  mqttConnectFailTime:0,  httpDownloadFailTime:5,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 17:19:37 black-white picture from http
+2019-06-24 17:20:04 other-white picture from http
+2019-06-24 17:20:34 tryTime:5,  successTime:4,  mqttConnectFailTime:0,  httpDownloadFailTime:5,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 17:21:39 black-white picture from http
+2019-06-24 17:22:06 other-white picture from http
+2019-06-24 17:22:37 tryTime:6,  successTime:5,  mqttConnectFailTime:0,  httpDownloadFailTime:5,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 17:23:41 black-white picture from http
+2019-06-24 17:24:07 other-white picture from http
+2019-06-24 17:24:38 tryTime:7,  successTime:6,  mqttConnectFailTime:0,  httpDownloadFailTime:5,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 17:25:39 black-white picture from http
+2019-06-24 17:26:07 other-white picture from http
+2019-06-24 17:26:37 tryTime:8,  successTime:7,  mqttConnectFailTime:0,  httpDownloadFailTime:5,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 17:27:44 black-white picture from http
+2019-06-24 17:28:14 other-white picture from http
+2019-06-24 17:28:44 tryTime:9,  successTime:8,  mqttConnectFailTime:0,  httpDownloadFailTime:5,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 17:29:46 black-white picture from http
+2019-06-24 17:30:20 other-white picture from http
+2019-06-24 17:30:50 tryTime:10,  successTime:9,  mqttConnectFailTime:0,  httpDownloadFailTime:5,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 17:31:53 black-white picture from http
+2019-06-24 17:32:22 other-white picture from http
+2019-06-24 17:32:52 tryTime:11,  successTime:10,  mqttConnectFailTime:0,  httpDownloadFailTime:5,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 17:34:24 black-white picture from http
+2019-06-24 17:34:54 other-white picture from http
+2019-06-24 17:35:24 tryTime:12,  successTime:11,  mqttConnectFailTime:0,  httpDownloadFailTime:5,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 17:36:52 black-white picture from http
+2019-06-24 17:38:01 other-white picture from http
+2019-06-24 17:38:32 tryTime:13,  successTime:12,  mqttConnectFailTime:0,  httpDownloadFailTime:5,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 17:39:39 black-white picture from http
+2019-06-24 17:40:07 other-white picture from http
+2019-06-24 17:40:37 tryTime:14,  successTime:13,  mqttConnectFailTime:0,  httpDownloadFailTime:5,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 17:41:52 black-white picture from http
+2019-06-24 17:58:49 other-white picture from http
+2019-06-24 17:59:19 tryTime:15,  successTime:14,  mqttConnectFailTime:0,  httpDownloadFailTime:6,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 18:15:48 black-white picture from http
+2019-06-24 18:16:18 other-white picture from http
+2019-06-24 18:16:48 tryTime:16,  successTime:15,  mqttConnectFailTime:0,  httpDownloadFailTime:7,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 18:17:54 black-white picture from http
+2019-06-24 18:18:25 other-white picture from http
+2019-06-24 18:18:56 tryTime:17,  successTime:16,  mqttConnectFailTime:0,  httpDownloadFailTime:7,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-24 18:20:05 black-white picture from http
+2019-06-24 18:20:33 other-white picture from http
+2019-06-24 18:21:03 tryTime:18,  successTime:17,  mqttConnectFailTime:0,  httpDownloadFailTime:7,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 03:13:59 black-white picture from http
+2019-06-25 03:14:19 other-white picture from http
+2019-06-25 03:14:52 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 03:16:28 black-white picture from http
+2019-06-25 03:16:48 other-white picture from http
+2019-06-25 03:17:20 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 03:18:18 black-white picture from http
+2019-06-25 03:18:38 other-white picture from http
+2019-06-25 03:19:11 tryTime:2,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 03:20:10 black-white picture from http
+2019-06-25 03:20:39 other-white picture from http
+2019-06-25 03:21:12 tryTime:3,  successTime:3,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 03:22:26 black-white picture from http
+2019-06-25 12:03:01 black-white picture from http
+2019-06-25 12:03:30 other-white picture from http
+2019-06-25 12:04:03 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 12:06:48 black-white picture from http
+2019-06-25 12:07:25 other-white picture from http
+2019-06-25 12:07:55 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 12:56:12 picture from json
+2019-06-25 12:56:12 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 12:57:42 picture from json
+2019-06-25 12:57:42 tryTime:2,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 12:59:12 picture from json
+2019-06-25 12:59:12 tryTime:3,  successTime:3,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 13:00:56 picture from json
+2019-06-25 13:00:56 tryTime:4,  successTime:4,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:254,  noneMqttPackageTime:0
+2019-06-25 13:02:36 picture from json
+2019-06-25 13:02:36 tryTime:5,  successTime:5,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:508,  noneMqttPackageTime:0
+2019-06-25 13:04:06 picture from json
+2019-06-25 13:04:06 tryTime:6,  successTime:6,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:508,  noneMqttPackageTime:0
+2019-06-25 13:05:48 picture from json
+2019-06-25 13:05:48 tryTime:7,  successTime:7,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:762,  noneMqttPackageTime:0
+2019-06-25 13:07:34 picture from json
+2019-06-25 13:07:34 tryTime:8,  successTime:8,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:762,  noneMqttPackageTime:0
+2019-06-25 13:09:03 picture from json
+2019-06-25 13:09:03 tryTime:9,  successTime:9,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:1016,  noneMqttPackageTime:0
+2019-06-25 13:10:44 picture from json
+2019-06-25 13:10:44 tryTime:10,  successTime:10,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:1270,  noneMqttPackageTime:0
+2019-06-25 13:14:11 picture from json
+2019-06-25 13:14:11 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:254,  noneMqttPackageTime:0
+2019-06-25 13:15:55 picture from json
+2019-06-25 13:15:55 tryTime:2,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:508,  noneMqttPackageTime:0
+2019-06-25 13:17:38 picture from json
+2019-06-25 13:17:38 tryTime:3,  successTime:3,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:762,  noneMqttPackageTime:0
+2019-06-25 13:19:01 picture from json
+2019-06-25 13:19:01 tryTime:4,  successTime:4,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:762,  noneMqttPackageTime:0
+2019-06-25 13:20:42 picture from json
+2019-06-25 13:20:42 tryTime:5,  successTime:5,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:1016,  noneMqttPackageTime:0
+2019-06-25 13:22:24 picture from json
+2019-06-25 13:22:24 tryTime:6,  successTime:6,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:1270,  noneMqttPackageTime:0
+2019-06-25 13:24:04 picture from json
+2019-06-25 13:24:04 tryTime:7,  successTime:7,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:1524,  noneMqttPackageTime:0
+2019-06-25 13:25:49 picture from json
+2019-06-25 13:25:49 tryTime:8,  successTime:8,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:1778,  noneMqttPackageTime:0
+2019-06-25 13:27:28 picture from json
+2019-06-25 13:27:28 tryTime:9,  successTime:9,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:2032,  noneMqttPackageTime:0
+2019-06-25 13:29:07 picture from json
+2019-06-25 13:29:07 tryTime:10,  successTime:10,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:2286,  noneMqttPackageTime:0
+2019-06-25 13:30:51 picture from json
+2019-06-25 13:30:51 tryTime:11,  successTime:11,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:2286,  noneMqttPackageTime:0
+2019-06-25 13:32:33 picture from json
+2019-06-25 13:32:33 tryTime:12,  successTime:12,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:2540,  noneMqttPackageTime:0
+2019-06-25 13:36:36 picture from json
+2019-06-25 13:36:36 tryTime:14,  successTime:13,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:2794,  noneMqttPackageTime:1
+2019-06-25 13:38:17 picture from json
+2019-06-25 13:38:17 tryTime:15,  successTime:14,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:3048,  noneMqttPackageTime:1
+2019-06-25 13:40:00 picture from json
+2019-06-25 13:40:00 tryTime:16,  successTime:15,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:3302,  noneMqttPackageTime:1
+2019-06-25 13:41:54 picture from json
+2019-06-25 13:41:54 tryTime:17,  successTime:16,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:3556,  noneMqttPackageTime:1
+2019-06-25 13:43:56 picture from json
+2019-06-25 13:43:56 tryTime:18,  successTime:17,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:3810,  noneMqttPackageTime:1
+2019-06-25 13:45:48 picture from json
+2019-06-25 13:45:48 tryTime:19,  successTime:18,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:3810,  noneMqttPackageTime:1
+2019-06-25 13:50:31 picture from json
+2019-06-25 13:50:31 tryTime:20,  successTime:19,  mqttConnectFailTime:1,  httpDownloadFailTime:0,  duplicatePackageTime:3810,  noneMqttPackageTime:1
+2019-06-25 13:53:23 picture from json
+2019-06-25 13:53:23 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 13:57:41 picture from json
+2019-06-25 13:57:41 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 13:59:47 picture from json
+2019-06-25 13:59:47 tryTime:2,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 14:01:30 picture from json
+2019-06-25 14:01:30 tryTime:3,  successTime:3,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 14:17:11 picture from json
+2019-06-25 14:17:11 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 14:23:23 picture from json
+2019-06-25 14:23:23 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 14:36:09 picture from json
+2019-06-25 14:36:09 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:254,  noneMqttPackageTime:0
+2019-06-25 14:37:50 picture from json
+2019-06-25 14:37:50 tryTime:2,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:254,  noneMqttPackageTime:0
+2019-06-25 14:39:33 picture from json
+2019-06-25 14:39:33 tryTime:3,  successTime:3,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:508,  noneMqttPackageTime:0
+2019-06-25 14:41:12 picture from json
+2019-06-25 14:41:12 tryTime:4,  successTime:4,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:762,  noneMqttPackageTime:0
+2019-06-25 14:42:42 picture from json
+2019-06-25 14:42:42 tryTime:5,  successTime:5,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:762,  noneMqttPackageTime:0
+2019-06-25 14:44:15 picture from json
+2019-06-25 14:44:15 tryTime:6,  successTime:6,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:762,  noneMqttPackageTime:0
+2019-06-25 14:45:37 picture from json
+2019-06-25 14:45:37 tryTime:7,  successTime:7,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:762,  noneMqttPackageTime:0
+2019-06-25 14:47:00 picture from json
+2019-06-25 14:47:00 tryTime:8,  successTime:8,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:762,  noneMqttPackageTime:0
+2019-06-25 14:48:20 picture from json
+2019-06-25 14:48:20 tryTime:9,  successTime:9,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:762,  noneMqttPackageTime:0
+2019-06-25 14:49:44 picture from json
+2019-06-25 14:49:44 tryTime:10,  successTime:10,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:762,  noneMqttPackageTime:0
+2019-06-25 14:51:04 picture from json
+2019-06-25 14:51:04 tryTime:11,  successTime:11,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:762,  noneMqttPackageTime:0
+2019-06-25 14:52:44 picture from json
+2019-06-25 14:52:44 tryTime:12,  successTime:12,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:762,  noneMqttPackageTime:0
+2019-06-25 14:54:11 picture from json
+2019-06-25 14:54:11 tryTime:13,  successTime:13,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:762,  noneMqttPackageTime:0
+2019-06-25 14:55:31 picture from json
+2019-06-25 14:55:31 tryTime:14,  successTime:14,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:762,  noneMqttPackageTime:0
+2019-06-25 14:56:54 picture from json
+2019-06-25 14:56:54 tryTime:15,  successTime:15,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:762,  noneMqttPackageTime:0
+2019-06-25 14:58:14 picture from json
+2019-06-25 14:58:14 tryTime:16,  successTime:16,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:762,  noneMqttPackageTime:0
+2019-06-25 14:59:38 picture from json
+2019-06-25 14:59:38 tryTime:17,  successTime:17,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:762,  noneMqttPackageTime:0
+2019-06-25 15:00:58 picture from json
+2019-06-25 15:00:58 tryTime:18,  successTime:18,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:762,  noneMqttPackageTime:0
+2019-06-25 15:02:22 picture from json
+2019-06-25 15:02:22 tryTime:19,  successTime:19,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:762,  noneMqttPackageTime:0
+2019-06-25 15:03:42 picture from json
+2019-06-25 15:03:42 tryTime:20,  successTime:20,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:762,  noneMqttPackageTime:0
+2019-06-25 15:05:35 picture from json
+2019-06-25 15:05:35 tryTime:21,  successTime:21,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:762,  noneMqttPackageTime:0
+2019-06-25 15:06:59 picture from json
+2019-06-25 15:06:59 tryTime:22,  successTime:22,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:762,  noneMqttPackageTime:0
+2019-06-25 15:08:18 picture from json
+2019-06-25 15:08:18 tryTime:23,  successTime:23,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:762,  noneMqttPackageTime:0
+2019-06-25 15:11:38 picture from json
+2019-06-25 15:11:38 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 15:13:02 picture from json
+2019-06-25 15:13:02 tryTime:2,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 15:14:22 picture from json
+2019-06-25 15:14:22 tryTime:3,  successTime:3,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 15:15:46 picture from json
+2019-06-25 15:15:46 tryTime:4,  successTime:4,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 15:17:08 picture from json
+2019-06-25 15:17:08 tryTime:5,  successTime:5,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 15:18:27 picture from json
+2019-06-25 15:18:27 tryTime:6,  successTime:6,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 15:20:03 picture from json
+2019-06-25 15:20:03 tryTime:7,  successTime:7,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:254,  noneMqttPackageTime:0
+2019-06-25 15:21:29 picture from json
+2019-06-25 15:21:29 tryTime:8,  successTime:8,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:254,  noneMqttPackageTime:0
+2019-06-25 15:22:49 picture from json
+2019-06-25 15:22:49 tryTime:9,  successTime:9,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:254,  noneMqttPackageTime:0
+2019-06-25 15:24:13 picture from json
+2019-06-25 15:24:13 tryTime:10,  successTime:10,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:254,  noneMqttPackageTime:0
+2019-06-25 15:25:32 picture from json
+2019-06-25 15:25:32 tryTime:11,  successTime:11,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:254,  noneMqttPackageTime:0
+2019-06-25 15:26:57 picture from json
+2019-06-25 15:26:57 tryTime:12,  successTime:12,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:254,  noneMqttPackageTime:0
+2019-06-25 15:28:17 picture from json
+2019-06-25 15:28:17 tryTime:13,  successTime:13,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:254,  noneMqttPackageTime:0
+2019-06-25 15:29:37 picture from json
+2019-06-25 15:29:37 tryTime:14,  successTime:14,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:254,  noneMqttPackageTime:0
+2019-06-25 15:30:58 picture from json
+2019-06-25 15:30:59 tryTime:15,  successTime:15,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:254,  noneMqttPackageTime:0
+2019-06-25 15:32:21 picture from json
+2019-06-25 15:32:21 tryTime:16,  successTime:16,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:254,  noneMqttPackageTime:0
+2019-06-25 15:33:40 picture from json
+2019-06-25 15:33:40 tryTime:17,  successTime:17,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:254,  noneMqttPackageTime:0
+2019-06-25 15:34:57 picture from json
+2019-06-25 15:34:57 tryTime:18,  successTime:18,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:254,  noneMqttPackageTime:0
+2019-06-25 15:36:28 picture from json
+2019-06-25 15:36:28 tryTime:19,  successTime:19,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:254,  noneMqttPackageTime:0
+2019-06-25 15:37:55 picture from json
+2019-06-25 15:37:55 tryTime:20,  successTime:20,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:254,  noneMqttPackageTime:0
+2019-06-25 15:39:19 picture from json
+2019-06-25 15:39:19 tryTime:21,  successTime:21,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:254,  noneMqttPackageTime:0
+2019-06-25 15:40:53 picture from json
+2019-06-25 15:40:53 tryTime:22,  successTime:22,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:254,  noneMqttPackageTime:0
+2019-06-25 15:42:21 picture from json
+2019-06-25 15:42:21 tryTime:23,  successTime:23,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:254,  noneMqttPackageTime:0
+2019-06-25 15:45:48 picture from json
+2019-06-25 15:45:48 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 15:47:18 picture from json
+2019-06-25 15:47:18 tryTime:2,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 15:48:43 picture from json
+2019-06-25 15:48:43 tryTime:3,  successTime:3,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 15:54:23 picture from json
+2019-06-25 15:54:23 tryTime:1,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 15:55:49 picture from json
+2019-06-25 15:55:49 tryTime:2,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 15:57:01 black-white picture from http
+2019-06-25 15:57:26 other-white picture from http
+2019-06-25 15:57:56 tryTime:3,  successTime:3,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 15:59:42 black-white picture from http
+2019-06-25 16:00:10 other-white picture from http
+2019-06-25 16:00:40 tryTime:4,  successTime:4,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:0
+2019-06-25 16:01:53 black-white picture from http
+2019-06-25 16:02:16 other-white picture from http
+2019-06-25 16:02:47 tryTime:5,  successTime:5,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:254,  noneMqttPackageTime:0
+2019-06-25 16:03:47 black-white picture from http
+2019-06-25 16:04:17 other-white picture from http
+2019-06-25 16:04:47 tryTime:6,  successTime:6,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:254,  noneMqttPackageTime:0
+2019-06-25 16:06:02 black-white picture from http
+2019-06-25 16:06:46 other-white picture from http
+2019-06-25 16:07:16 tryTime:7,  successTime:7,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:254,  noneMqttPackageTime:0
+2019-06-25 16:08:40 black-white picture from http
+2019-06-25 16:09:16 other-white picture from http
+2019-06-25 16:09:46 tryTime:8,  successTime:8,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:508,  noneMqttPackageTime:0
+2019-06-25 16:10:53 black-white picture from http
+2019-06-25 16:11:28 other-white picture from http
+2019-06-25 16:11:59 tryTime:9,  successTime:9,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:508,  noneMqttPackageTime:0
+2019-06-25 16:13:04 black-white picture from http
+2019-06-25 16:13:46 other-white picture from http
+2019-06-25 16:14:17 tryTime:10,  successTime:10,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:508,  noneMqttPackageTime:0
+2019-06-25 16:16:16 black-white picture from http
+2019-06-25 16:16:51 other-white picture from http
+2019-06-25 16:17:21 tryTime:11,  successTime:11,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:508,  noneMqttPackageTime:0
+2019-06-26 01:41:39 black-white picture from http
+2019-06-26 01:41:59 other-white picture from http
+2019-06-26 01:42:32 BlackImage & RedImage display success
+2019-06-26 01:42:32 tryTime:3,  successTime:1,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:2
+2019-06-26 01:44:13 black-white picture from http
+2019-06-26 01:44:35 other-white picture from http
+2019-06-26 01:45:07 BlackImage & RedImage display success
+2019-06-26 01:45:07 tryTime:4,  successTime:2,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:2
+2019-06-26 01:46:32 black-white picture from http
+2019-06-26 01:46:51 other-white picture from http
+2019-06-26 01:47:24 BlackImage & RedImage display success
+2019-06-26 01:47:24 tryTime:5,  successTime:3,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:2
+2019-06-26 01:48:41 black-white picture from http
+2019-06-26 01:49:00 other-white picture from http
+2019-06-26 01:49:33 BlackImage & RedImage display success
+2019-06-26 01:49:33 tryTime:6,  successTime:4,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:2
+2019-06-26 01:50:50 black-white picture from http
+2019-06-26 01:51:07 other-white picture from http
+2019-06-26 01:51:40 BlackImage & RedImage display success
+2019-06-26 01:51:40 tryTime:7,  successTime:5,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:2
+2019-06-26 01:52:55 black-white picture from http
+2019-06-26 01:53:16 other-white picture from http
+2019-06-26 01:53:49 BlackImage & RedImage display success
+2019-06-26 01:53:49 tryTime:8,  successTime:6,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:2
+2019-06-26 01:55:09 black-white picture from http
+2019-06-26 01:55:29 other-white picture from http
+2019-06-26 01:56:02 BlackImage & RedImage display success
+2019-06-26 01:56:02 tryTime:9,  successTime:7,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:2
+2019-06-26 01:57:22 black-white picture from http
+2019-06-26 01:57:42 other-white picture from http
+2019-06-26 01:58:15 BlackImage & RedImage display success
+2019-06-26 01:58:15 tryTime:10,  successTime:8,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:2
+2019-06-26 01:59:34 black-white picture from http
+2019-06-26 01:59:55 other-white picture from http
+2019-06-26 02:00:28 BlackImage & RedImage display success
+2019-06-26 02:00:28 tryTime:11,  successTime:9,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:2
+2019-06-26 02:01:42 black-white picture from http
+2019-06-26 02:02:03 other-white picture from http
+2019-06-26 02:02:35 BlackImage & RedImage display success
+2019-06-26 02:02:35 tryTime:12,  successTime:10,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:2
+2019-06-26 02:03:53 black-white picture from http
+2019-06-26 02:04:14 other-white picture from http
+2019-06-26 02:04:47 BlackImage & RedImage display success
+2019-06-26 02:04:47 tryTime:13,  successTime:11,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:2
+2019-06-26 02:05:30 clear screen
+2019-06-26 02:05:30 tryTime:14,  successTime:12,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:2
+2019-06-26 02:06:12 clear screen
+2019-06-26 02:06:12 tryTime:15,  successTime:13,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:2
+2019-06-26 02:06:56 clear screen
+2019-06-26 02:06:56 tryTime:16,  successTime:14,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:2
+2019-06-26 02:07:38 clear screen
+2019-06-26 02:07:38 tryTime:17,  successTime:15,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:2
+2019-06-26 02:08:19 clear screen
+2019-06-26 02:08:19 tryTime:18,  successTime:16,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:2
+2019-06-26 02:09:00 clear screen
+2019-06-26 02:09:00 tryTime:19,  successTime:17,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:2
+2019-06-26 02:09:41 clear screen
+2019-06-26 02:09:41 tryTime:20,  successTime:18,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:2
+2019-06-26 02:10:58 clear screen
+2019-06-26 02:10:58 tryTime:22,  successTime:19,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:3
+2019-06-26 02:11:47 clear screen
+2019-06-26 02:11:47 tryTime:23,  successTime:20,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:3
+2019-06-26 02:12:34 clear screen
+2019-06-26 02:12:34 tryTime:24,  successTime:21,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:3
+2019-06-26 02:13:20 clear screen
+2019-06-26 02:13:20 tryTime:25,  successTime:22,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:3
+2019-06-26 02:14:37 black-white picture from http
+2019-06-26 02:14:56 other-white picture from http
+2019-06-26 02:15:29 BlackImage & RedImage display success
+2019-06-26 02:15:29 tryTime:26,  successTime:23,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:3
+2019-06-26 02:16:44 black-white picture from http
+2019-06-26 02:17:04 other-white picture from http
+2019-06-26 02:17:37 BlackImage & RedImage display success
+2019-06-26 02:17:37 tryTime:27,  successTime:24,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:3
+2019-06-26 02:18:51 black-white picture from http
+2019-06-26 02:19:12 other-white picture from http
+2019-06-26 02:19:45 BlackImage & RedImage display success
+2019-06-26 02:19:45 tryTime:28,  successTime:25,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:3
+2019-06-26 02:22:16 black-white picture from http
+2019-06-26 02:22:43 other-white picture from http
+2019-06-26 02:23:16 BlackImage & RedImage display success
+2019-06-26 02:23:16 tryTime:30,  successTime:26,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:3
+2019-06-26 02:24:35 black-white picture from http
+2019-06-26 02:24:55 other-white picture from http
+2019-06-26 02:25:28 BlackImage & RedImage display success
+2019-06-26 02:25:28 tryTime:31,  successTime:27,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:3
+2019-06-26 02:27:08 black-white picture from http
+2019-06-26 02:27:29 other-white picture from http
+2019-06-26 02:28:02 BlackImage & RedImage display success
+2019-06-26 02:28:02 tryTime:33,  successTime:28,  mqttConnectFailTime:0,  httpDownloadFailTime:0,  duplicatePackageTime:0,  noneMqttPackageTime:3
